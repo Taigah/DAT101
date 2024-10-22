@@ -65,7 +65,7 @@ printOut("Number of days: " + daysInMonth);
 printOut(newLine);
 
 printOut("--- Part 10 ---------------------------------------------------------------------------------------------");
-/* Put your code below here!*/
+/* Put your code below here!*/ //efef
 if ((monthIndex == 2) || (monthIndex == 4)) {
   printOut("The art gallery is closed.");
 }
